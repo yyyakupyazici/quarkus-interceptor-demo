@@ -1,4 +1,4 @@
-package com.yazici.intercetor;
+package com.yazici.interceptor;
 
 import io.quarkus.logging.Log;
 import jakarta.annotation.Priority;

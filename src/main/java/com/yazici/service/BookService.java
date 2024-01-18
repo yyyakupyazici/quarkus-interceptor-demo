@@ -2,7 +2,7 @@ package com.yazici.service;
 
 import java.util.List;
 import com.yazici.dto.Book;
-import com.yazici.intercetor.BookServiceInterceptorBinding;
+import com.yazici.interceptor.BookServiceInterceptorBinding;
 import jakarta.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
